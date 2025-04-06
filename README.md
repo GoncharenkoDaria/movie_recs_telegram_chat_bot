@@ -1,2 +1,3 @@
-# movie_recs_telegram_chat_bot
+# Рекомендательная система для кинофильмов с использванием TMDB 5000 Movie Dataset
+Metadata on ~5,000 movies from TMDb #
 Чат-бот телеграм советующий 10 фильмов на основе датасета Kaggle
